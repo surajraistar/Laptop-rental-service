@@ -69,7 +69,7 @@ The purpose of this CRM system is to automate the rental process, enhance custom
 - **Dashboards**: Visual representation of key metrics and business performance.
 
 ## *Video Link*
-For a detailed demonstration video click here: 🎥 [Video Demo]()
+For a detailed demonstration video click here: 🎥 [Video Demo](https://drive.google.com/file/d/1DJ5FXFgZkZ5tuccsa5G8up9nRMwvi8kI/view?usp=sharing)
 
 ## *Documentation*
 
